@@ -1,0 +1,15 @@
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\bin\Debug\net8.0\TinubuSoftware.exe
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\bin\Debug\net8.0\File\mower.txt
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\bin\Debug\net8.0\TinubuSoftware.deps.json
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\bin\Debug\net8.0\TinubuSoftware.runtimeconfig.json
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\bin\Debug\net8.0\TinubuSoftware.dll
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\bin\Debug\net8.0\TinubuSoftware.pdb
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\TinubuSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\TinubuSoftware.AssemblyInfoInputs.cache
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\TinubuSoftware.AssemblyInfo.cs
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\TinubuSoftware.csproj.CoreCompileInputs.cache
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\TinubuSoftware.dll
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\refint\TinubuSoftware.dll
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\TinubuSoftware.pdb
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\TinubuSoftware.genruntimeconfig.cache
+C:\Users\a03.jose_murillo\source\repos\TinubuSoftware\TinubuSoftware\obj\Debug\net8.0\ref\TinubuSoftware.dll
