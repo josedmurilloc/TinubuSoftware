@@ -1013,36 +1013,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\": {}
+    "/Users/JMurillo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a03.jose_murillo\\source\\repos\\TinubuSoftware\\TinubuTest\\TinubuTest.csproj",
+      "projectUniqueName": "/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuTest/TinubuTest.csproj",
       "projectName": "TinubuTest",
-      "projectPath": "C:\\Users\\a03.jose_murillo\\source\\repos\\TinubuSoftware\\TinubuTest\\TinubuTest.csproj",
-      "packagesPath": "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a03.jose_murillo\\source\\repos\\TinubuSoftware\\TinubuTest\\obj\\",
+      "projectPath": "/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuTest/TinubuTest.csproj",
+      "packagesPath": "/Users/JMurillo/.nuget/packages/",
+      "outputPath": "/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a03.jose_murillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/JMurillo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\SemanticNuget\\nuget-sk-v2": {},
-        "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/corvel/_packaging/Release/nuget/v3/index.json": {}
+        "http://nuget.trad.tradestation.com/nuget/nuget/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\a03.jose_murillo\\source\\repos\\TinubuSoftware\\TinubuSoftware\\TinubuSoftware.csproj": {
-              "projectPath": "C:\\Users\\a03.jose_murillo\\source\\repos\\TinubuSoftware\\TinubuSoftware\\TinubuSoftware.csproj"
+            "/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuSoftware/TinubuSoftware.csproj": {
+              "projectPath": "/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuSoftware/TinubuSoftware.csproj"
             }
           }
         }
@@ -1051,11 +1048,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1095,8 +1087,22 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/JMurillo/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.trad.tradestation.com/nuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/JMurillo/.local/share/NuGet' is denied."
+    }
+  ]
 }

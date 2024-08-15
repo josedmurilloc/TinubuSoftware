@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pEKjCGYQJ7MRJ7eiTwaEflSCCk/VMsn2DwIOZQ2PVrzURIFc+dDEHbw41C3gVYJG/SHbD/6Tr3uOkf8OtU0wWQ==",
+  "dgSpecHash": "nHen85+JufLZMSb2pKjMEgUHKW8s7E+mmVeAe38CwrBTKr4LE7JjWapk8LNg4sIFWip1HAhn91vWXIxXsF/haQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a03.jose_murillo\\source\\repos\\TinubuSoftware\\TinubuSoftware\\TinubuSoftware.csproj",
+  "projectFilePath": "/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuSoftware/TinubuSoftware.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.trad.tradestation.com/nuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

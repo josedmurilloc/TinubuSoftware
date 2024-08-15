@@ -1,19 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "EvjFkJEx7zNDEBxyeqcux8n+mdTp02s4dB2uhP6zYD6Oq1TR85ZoJJqoTRYM/mGxCqoyuYuSMEMzS0FyALi+eg==",
+  "dgSpecHash": "G+jY8k53GqYmUCGw9918AfiQRC4rvpB9LNPzP61rLkBKHpsZhidMIIbk6OK/J9xOrd2ZVBB/tfFP7Dt26OCQdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a03.jose_murillo\\source\\repos\\TinubuSoftware\\TinubuTest\\TinubuTest.csproj",
+  "projectFilePath": "/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuTest/TinubuTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
-    "C:\\Users\\a03.jose_murillo\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "/Users/JMurillo/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/microsoft.testplatform.objectmodel/17.8.0/microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/microsoft.testplatform.testhost/17.8.0/microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/mstest.testadapter/3.1.1/mstest.testadapter.3.1.1.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/mstest.testframework/3.1.1/mstest.testframework.3.1.1.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
+    "/Users/JMurillo/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.trad.tradestation.com/nuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/JMurillo/.local/share/NuGet' is denied."
+    }
+  ]
 }
