@@ -1,0 +1,16 @@
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/bin/Debug/net8.0/TinubuNewOne
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/bin/Debug/net8.0/TinubuNewOne.deps.json
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/bin/Debug/net8.0/TinubuNewOne.runtimeconfig.json
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/bin/Debug/net8.0/TinubuNewOne.dll
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/bin/Debug/net8.0/TinubuNewOne.pdb
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/TinubuNewOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/TinubuNewOne.AssemblyInfoInputs.cache
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/TinubuNewOne.AssemblyInfo.cs
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/TinubuNewOne.csproj.CoreCompileInputs.cache
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/TinubuNewOne.sourcelink.json
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/TinubuNewOne.dll
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/refint/TinubuNewOne.dll
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/TinubuNewOne.pdb
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/TinubuNewOne.genruntimeconfig.cache
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/obj/Debug/net8.0/ref/TinubuNewOne.dll
+/Users/JMurillo/Documents/Projects/TinubuSoftware/TinubuNewOne/bin/Debug/net8.0/File/mower.txt
